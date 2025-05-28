@@ -1,0 +1,53 @@
+
+[
+  {
+    "id": "grant-001",
+    "title": "Community Empowerment Fund 2025",
+    "description": "Funding for grassroots NGOs focused on local community development and sustainability.",
+    "deadline": "2025-08-15",
+    "region": "Global",
+    "focusAreas": ["Community Development", "Sustainability", "Education"],
+    "amount": "Up to $50,000",
+    "eligibility": "Registered non-profits, 2+ years operation"
+  },
+  {
+    "id": "grant-002",
+    "title": "Women in Tech Innovation Grant",
+    "description": "Supports women-led startups developing innovative technology solutions.",
+    "deadline": "2025-09-30",
+    "region": "North America",
+    "focusAreas": ["Technology", "Women-led", "Innovation", "SaaS"],
+    "amount": "Up to $100,000",
+    "eligibility": "Women-led startup, less than 3 years old"
+  },
+  {
+    "id": "grant-003",
+    "title": "Rural Development Initiative",
+    "description": "Grants for projects improving infrastructure and livelihoods in rural areas.",
+    "deadline": "2025-07-01",
+    "region": "Africa",
+    "focusAreas": ["Rural Development", "Infrastructure", "Agriculture"],
+    "amount": "Up to $75,000",
+    "eligibility": "NGOs, community organizations"
+  },
+  {
+    "id": "grant-004",
+    "title": "Climate Action Seed Fund",
+    "description": "Seed funding for early-stage startups tackling climate change solutions.",
+    "deadline": "2025-10-20",
+    "region": "Europe",
+    "focusAreas": ["Climate Change", "Renewable Energy", "Sustainability", "Startups"],
+    "amount": "Up to $25,000",
+    "eligibility": "Early-stage startup, climate focus"
+  },
+  {
+    "id": "grant-005",
+    "title": "Arts & Culture Revitalization Grant",
+    "description": "Support for initiatives promoting local arts and cultural heritage.",
+    "deadline": "2025-08-01",
+    "region": "Asia",
+    "focusAreas": ["Arts & Culture", "Heritage Preservation", "Community Engagement"],
+    "amount": "Up to $30,000",
+    "eligibility": "Arts organizations, cultural groups"
+  }
+]

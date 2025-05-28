@@ -1,0 +1,58 @@
+
+[
+  {
+    "id": "founder-001",
+    "name": "Aisha Khan",
+    "mission": "Empowering women through digital literacy programs.",
+    "region": "South Asia",
+    "isFemaleFounder": true,
+    "appliedGrantsCount": 7,
+    "nftUri": "https://example.com/nft/aisha.json",
+    "currentVotes": 150,
+    "isTopVoted": true
+  },
+  {
+    "id": "founder-002",
+    "name": "Ben Carter",
+    "mission": "Developing sustainable agricultural practices for small farmers.",
+    "region": "Latin America",
+    "isFemaleFounder": false,
+    "appliedGrantsCount": 3,
+    "nftUri": "https://example.com/nft/ben.json",
+    "currentVotes": 80,
+    "isTopVoted": false
+  },
+  {
+    "id": "founder-003",
+    "name": "Chen Li",
+    "mission": "Creating accessible educational tools for underserved communities.",
+    "region": "East Asia",
+    "isFemaleFounder": true,
+    "appliedGrantsCount": 12,
+    "nftUri": "https://example.com/nft/chen.json",
+    "currentVotes": 210,
+    "isTopVoted": true
+  },
+  {
+    "id": "founder-004",
+    "name": "David Miller",
+    "mission": "Innovating clean water solutions for remote villages.",
+    "region": "Africa",
+    "isFemaleFounder": false,
+    "appliedGrantsCount": 5,
+    "nftUri": "https://example.com/nft/david.json",
+    "currentVotes": 60,
+    "isTopVoted": false
+  },
+  {
+    "id": "founder-005",
+    "name": "Elena Petrova",
+    "mission": "Supporting local artists and cultural initiatives.",
+    "region": "Europe",
+    "isFemaleFounder": true,
+    "appliedGrantsCount": 9,
+    "nftUri": "https://example.com/nft/elena.json",
+    "currentVotes": 180,
+    "isTopVoted": false
+  }
+]
